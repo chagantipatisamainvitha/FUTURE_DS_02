@@ -1,45 +1,54 @@
-My Internship From Future interns 2nd Project link : https://public.tableau.com/views/SAM_17688442128200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Project: Customer Retention & Churn Analysis Dashboard (Tableau Public)
+🔗 **Live Dashboard on Tableau Public:**  
+ https://public.tableau.com/views/SAM_17688442128200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-What I did step-by-step:
-Cleaned and organized the customer dataset in Excel
-Checked for missing values, duplicates, and inconsistencies
+---
 
-Structured key fields like:
-Tenure
-Contract type
-Payment method
-Internet service
-Churn status
-Loaded the cleaned data into Tableau Public
-Built an interactive dashboard with filters
+## 📌 Project Overview
 
-Used:
-KPI cards
-Bar charts
-Pie/Donut charts
-Line trends
-Segmentation visuals
+This project analyzes customer behavior to identify patterns that lead to churn and to understand what drives customer retention. You can interact with the dashboard to explore churn trends across various customer segments.
 
-Overall churn rate was clearly visible through a KPI card.
+---
 
-Customers on month-to-month contracts showed the highest churn.
+## 🧠 Key Steps
 
-Customers with longer tenure were more likely to stay, while new customers churned more.
+1. **Data Cleaning:** Prepared and cleaned the dataset in Excel.
+2. **Feature Structuring:** Organized key fields including tenure, contract type, internet service, payment method, and churn status.
+3. **Visualization in Tableau Public:** Connected cleaned data to build an interactive dashboard.
+4. **Analysis & Insights:** Created charts and filters to reveal high-risk churn segments.
 
-Certain payment methods (like electronic check) had higher churn compared to others.
+---
 
-Customers using fiber internet showed higher churn than DSL users.
+## 📊 Visualizations Included
 
-Retention improved significantly for customers with 1–2 year contracts.
+✔ Overall churn rate  
+✔ Churn by contract type  
+✔ Churn vs. customer tenure  
+✔ Impact of payment method on churn  
+✔ Internet service churn comparison  
+✔ Interactive filters for deep dive
 
-The dashboard helped identify high-risk customer segments that need retention focus.
+---
 
-Filters allowed analysis by:
+## 🔍 Key Insights
 
-Contract type
+- Customers on **month-to-month contracts** showed the highest churn.  
+- Customers with **longer tenure** were more likely to stay.  
+- **Electronic check** payment method correlated with higher churn.  
+- Customers using **fiber internet** churn more than those with DSL.  
+- Retention was significantly better for **1–2 year contracts**.
 
-Tenure group
+---
 
+## 📁 Files in this Repo
+
+- **Dashboard 1.pdf** – Screenshot or PDF snapshot of the dashboard  
+- **README.md** – This file
+
+---
+
+## 🛠️ Tools Used
+
+- **Excel** — Data cleaning & preparation  
+- **Tableau Public** — Interactive dashboard building
