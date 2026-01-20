@@ -1,6 +1,6 @@
 Project: Customer Retention & Churn Analysis Dashboard (Tableau Public)
 
-What you did step-by-step:
+What I did step-by-step:
 Cleaned and organized the customer dataset in Excel
 Checked for missing values, duplicates, and inconsistencies
 
